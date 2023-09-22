@@ -1,0 +1,12 @@
+.service{
+    margin: 50px 0px;
+  }
+  .buttoncolor{
+    background-color: #0bf4ba;
+    margin: 0px 10px;
+    
+  }
+  select{
+    border: 2px solid rgb(53, 30, 255);
+    margin: 0px 10px; 
+  }
